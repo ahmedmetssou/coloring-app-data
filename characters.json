@@ -1,16 +1,16 @@
 {
   "ADS": {
-    "ENABLED": false,
+    "ENABLED": true,
     "NETWORK": "ADMOB",
-    "TEST_MODE": true,
+    "TEST_MODE": false,
 
     "INTERSTITIAL_AFTER_CLICKS": 3,
 
     "ADMOB": {
-      "APP_ID": "ca-app-pub-3940256099942544~3347511713",
-      "BANNER_ID": "ca-app-pub-3940256099942544/6300978111",
-      "INTERSTITIAL_ID": "ca-app-pub-3940256099942544/1033173712",
-      "APP_OPEN_ID": "ca-app-pub-3940256099942544/9257395921"
+      "APP_ID": "ca-app-pub-8516185011430226~9113839152",
+      "BANNER_ID": "ca-app-pub-8516185011430226/7604089006",
+      "INTERSTITIAL_ID": "ca-app-pub-8516185011430226/8731241917",
+      "APP_OPEN_ID": "ca-app-pub-8516185011430226/7294921649"
     },
 
     "APPLOVIN": {
